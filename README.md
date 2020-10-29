@@ -1,0 +1,2 @@
+# latihan-MYSQL
+LATIHAN DASAR MYSQL
